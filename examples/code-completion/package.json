@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@xenova/transformers": "^2.4.4",
-    "@monaco-editor/react": "^4.5.1",
+    "@monaco-editor/react": "^4.6.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
