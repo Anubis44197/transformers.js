@@ -3,3 +3,4 @@ onnxruntime<1.16.0
 optimum==1.13.2
 tqdm
 onnx==1.13.1
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
